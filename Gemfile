@@ -20,7 +20,7 @@ else
   gem 'actionpack', '5.2.3'
   gem 'actionview', '5.2.3'
   gem 'activemodel', '5.2.3'
-  gem 'activerecord', '5.2.3'
+  gem 'activerecord', '5.2.4.5'
   gem 'activesupport', '5.2.3'
   gem 'railties', '5.2.3'
   gem 'sprockets-rails'
