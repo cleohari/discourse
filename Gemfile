@@ -21,7 +21,7 @@ else
   gem 'actionview', '5.2.3'
   gem 'activemodel', '5.2.3'
   gem 'activerecord', '5.2.3'
-  gem 'activesupport', '5.2.3'
+  gem 'activesupport', '5.2.4.3'
   gem 'railties', '5.2.3'
   gem 'sprockets-rails'
 end
